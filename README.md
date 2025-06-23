@@ -2,7 +2,12 @@
 
 A **Streamlit-based** application for managing **students, courses, and results** with a **SQLite** backend.  
 
-![Demo](https://academia11.streamlit.app/) ![Python](https://img.shields.io/badge/Python-3.8%2B-green) ![SQLite](https://img.shields.io/badge/Database-SQLite-yellow)  
+![Demo](https://img.shields.io/badge/Demo-Streamlit-blue) ![Python](https://img.shields.io/badge/Python-3.8%2B-green) ![SQLite](https://img.shields.io/badge/Database-SQLite-yellow)  
+
+---
+
+## 🔗 **Live Demo**  
+👉 [Try Academia Hub on Streamlit Cloud](https://academia11.streamlit.app/)  
 
 ---
 
@@ -124,11 +129,6 @@ erDiagram
 | **👨‍🎓 Students** | Add/edit student profiles |
 | **📝 Results** | Record exam scores & calculate percentages |
 | **📋 Reports** | View student performance |
-
----
-
-## 🔗 **Live Demo**  
-👉 [Try Academia Hub on Streamlit Cloud](https://academia11.streamlit.app/)  
 
 ---
 
